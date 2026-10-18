@@ -8,7 +8,10 @@ dependencies = [
     "datasets>=5.1.0",
     "ipykernel>=7.4.0",
     "jupyter>=1.1.1",
+    "langchain-community>=0.4.2",
+    "langchain-tavily>=0.2.18",
     "langgraph>=1.2.15",
+    "langsmith>=0.14.9",
     "matplotlib>=3.11.2",
     "numpy>=2.5.3",
     "scikit-learn>=1.9.1",
@@ -16,4 +19,6 @@ dependencies = [
     "torchvision>=0.29.1",
     "tqdm>=4.70.1",
     "transformers>=5.19.0",
+    "trustcall>=0.0.39",
+    "wikipedia>=1.4.0",
 ]
